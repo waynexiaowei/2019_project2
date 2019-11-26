@@ -1,1 +1,1 @@
-remote add text2
+remote add texs2
