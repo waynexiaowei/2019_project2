@@ -1,1 +1,1 @@
-remote add texs2
+remote add test2 new2
