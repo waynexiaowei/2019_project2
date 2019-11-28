@@ -1,2 +1,3 @@
 remote add test2 new3
 remote add test2 new3 local
+local update test2
