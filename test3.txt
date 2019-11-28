@@ -1,2 +1,2 @@
 
-remote add test3 new 5
+remote add test3 new 6
